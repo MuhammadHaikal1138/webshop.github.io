@@ -1,0 +1,174 @@
+@media (max-width:652px) {
+    header h1 {
+        font-size: 25px;
+    }
+    .logo2 {
+        display: none;
+    }
+
+    .bacaan{
+        text-align: center;
+    }
+
+    .logo1 {
+        margin-left: 160px;
+    }
+
+    #item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-item {
+        margin-top: 10px;
+    }
+
+    .semua-item-shopping {
+        display: flex;
+        justify-content: center;
+    }
+
+    .item-shopping1{
+        flex-direction: column;
+        padding-top: 13px;
+    }
+
+    .item-shop1 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    .item-shopping2 {
+        flex-direction: column;
+    }
+
+    .item-shop2 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .item-shopping3 {
+        flex-direction: column;
+    }
+
+    .item-shop3 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    .best-product{
+        flex-direction: column;
+    }
+
+    .allfooter {
+        flex-direction: column;
+    }
+
+    .rkj {
+        justify-content: start;
+    }
+
+    .mid1-footer {
+        padding-left: 25px;
+    }
+
+    .end-footer {
+        text-align: center;
+        padding-top: 10px;
+    }
+}
+
+@media (max-width:848px) {
+    .Home {
+        display: flex;
+        flex-direction: column;
+    }
+    .bacaan {
+        text-align: center;
+    }
+    .logo1 {
+        margin-left: 163px;
+    }
+    .logo2 {
+        padding-top: 10px;
+    }
+    .background-awal {
+        height: 160vh;
+    }
+    #item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .image-item {
+        margin-top: 10px;
+    }
+    .semua-item-shopping {
+        display: flex;
+        justify-content: center;
+    }
+
+    .item-shopping1{
+        flex-direction: column;
+        padding-top: 13px;
+    }
+
+    .item-shop1 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    .item-shopping2 {
+        flex-direction: column;
+        margin: 11px 15px 0px 15px;
+    }
+
+    .item-shop2 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .item-shopping3 {
+        flex-direction: column;
+    }
+    .item-shop3 {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .best-product {
+        flex-direction: column;
+    }
+    .t-shirt-ramune {
+        width: 400px;
+    }
+    .mid-best-product {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .left-footer{
+        font-size: 20px;
+    }
+    .mid1-footer {
+        padding-left: 40px;
+    }
+    .mid1-footer p {
+        font-size: 20px;
+    }
+    .mid2-footer {
+        padding-left: 50px;
+    }
+    .mid2-footer p {
+        font-size: 20px;
+    }
+    .right-footer {
+        padding-left: 50px;
+        padding-right: 10px;
+    }
+    .right-footer p {
+        font-size: 20px;
+    }
+    .end-footer {
+        text-align: center;
+        padding-top: 10px;
+    }
+}

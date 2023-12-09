@@ -1,0 +1,312 @@
+*, body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    border-radius: 0px 0px 30px 30px; 
+    margin: 0px 60px;
+    height: 60px;
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+header h1 {
+    margin-right: 40px;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.semua {
+    padding-top: 40px;
+     /* margin-left: 60px; */
+}
+
+.background-awal {
+    background-color: rgb(62, 172, 62);
+    height: 101vh;
+}
+
+.bacaan {
+    color: white;
+    font-size: 25px;
+}
+
+.button {
+    font-size: 18px;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 24px;
+    margin-top: 10px;
+    box-shadow: 4px 3px black;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+.logo1 {
+    height: 300px;
+    border-radius: 50% 50% 0px 0px;
+    margin-top: 15px;
+}
+
+.logo2 {
+    border-radius: 120px 0px 120px 0px;
+}
+
+.Home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.item {
+    background-color: rgb(73, 129, 73);
+}
+
+.item h1 {
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+
+#item {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+
+.text {
+    color: white;
+}
+
+.first-item {
+    display: flex;
+    align-items: center;
+}
+
+.second-item {
+    display: flex;
+    align-items: center;
+}
+
+.third-item {
+    display: flex;
+    align-items: center;
+}
+
+.image-item {
+    height: 150px;
+    padding-right: 10px;
+}
+
+.semua-item-shopping {
+    background-color: white;
+}
+
+.judul {
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+    background-color: white;
+}
+
+.item-shopping1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.item-shop1 {
+    margin-right: 60px;
+    background-color: rgb(0, 174, 255);
+    border-radius: 20px;
+}
+
+.item-shop1 p {
+    text-align: center;
+    color: white;
+}
+
+.keychain-sc {
+    height: 150px;
+    width: 170px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.item-shopping2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.item-shop2 {
+    margin-right: 60px;
+    background-color: rgb(0, 174, 255);
+    border-radius: 20px;
+}
+
+.item-shop2 p {
+    text-align: center;
+    color: white;
+}
+
+.keychain-ponytail {
+    height: 150px;
+    width: 170px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.item-shopping3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    /* padding-bottom: 30px; */
+}
+
+.item-shop3 {
+    margin-right: 60px;
+    background-color: rgb(0, 174, 255);
+    border-radius: 20px;
+}
+
+.item-shop3 p {
+    text-align: center;
+    color: white;
+}
+
+.keychain-ame-no {
+    height: 150px;
+    width: 170px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.best-product {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+    margin-top: 20px;
+    background-color: rgb(62, 172, 62);
+}
+
+.tombol a {
+    color: black;
+}
+
+.t-shirt-ramune {
+    width: 40px;
+}
+
+.mid-best-product {
+    width: 300px;
+    font-size: 20px;
+    color: white;
+}
+
+.mid-best-product button {
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    border-radius: 20px;
+}
+
+.mid-best-product button a {
+    text-decoration: none;
+}
+
+.t-shirt-ramune {
+    margin: 40px;
+    width: 300px;
+}
+
+.allfooter{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.left-footer {
+    font-size: 25px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    padding-left: 30px;
+}
+
+.logo-sosmed a {
+    font-size: 35px;
+    color: white;
+}
+
+.rkj {
+    display: flex;
+}
+
+.mid1-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.mid1-footer h1 {
+    font-size: 25px;
+    padding-top: 39px;
+    padding-bottom: 20px;
+}
+
+.mid1-footer p {
+    font-size: 25px;
+}
+
+.mid2-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.mid2-footer h1 {
+    font-size: 25px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.mid2-footer p {
+    font-size: 25px;
+}
+
+.right-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.right-footer h1 {
+    font-size: 25px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.right-footer p {
+    font-size: 25px;
+}
+
+.end-footer {
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
